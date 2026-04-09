@@ -4,7 +4,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Font Changer",
-    page_icon="᧔𐓪᧓"
+    page_icon="🖍"
 )
 
 figlet = Figlet()
